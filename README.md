@@ -14,6 +14,10 @@ For the front end, SilkBuilder introduces a unique approach by combining custom 
 
 SilkBuilder’s design, centered on Agile Development and Rapid Application Development (RAD), offers several key advantages for developers seeking a fast, efficient approach to building web applications. Developers can deliver scalable, maintainable web applications quickly, responding to feedback and evolving requirements with ease.
 
+## Open-Source
+
+SilkBuilder Framework packages and uses open-source libraries and resources. The list and licenses of these are [found here](https://silkbuilder.com/toolbox#open-source).
+
 ## Learn more about SilkBuilder
 
 * [Development](development/)
