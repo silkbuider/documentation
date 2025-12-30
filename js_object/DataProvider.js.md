@@ -293,7 +293,8 @@ Returns the number of records in the data array. This is similar to the *size()*
 <a name="DataProvider+load"></a>
 
 ### load(internalCall)
-Submits the operations from the *requestObject* and loads the response from the Outlet service into the *selectObject*. The parameter is only for the frame's work internal use.
+Submits the operations from the *requestObject* and loads the response from the Outlet service into the *selectObject*.
+The parameter is only for the frame's work internal use.
 
 **Kind**: instance method of [<code>DataProvider</code>](#DataProvider)  
 

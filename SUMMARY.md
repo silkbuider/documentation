@@ -66,7 +66,7 @@
   * [ORM XML Structure](structures/orm_xml_structure.md)
   * [ORM JSON Structure](structures/orm_json_structure.md)
   * [JSON Service Request](structures/silk_service.md)
-* [Silk Builder Training](training/README.md)
+* [Training](training/README.md)
   * [Sample Database](training/sample_database.md)
   * [Plain Application](training/plain_application.md)
   * [Easy Application](training/easy_application.md)

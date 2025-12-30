@@ -160,6 +160,19 @@ Analyzes if the provided value is undefined or null. If tyes it return the provi
 Verifies if a web application is running inside an iframe
 
 **Kind**: global function  
+<a name="isEmail"></a>
+
+## isEmail(email, singel) ⇒ <code>Boolean</code>
+Verifies if the provided string contains a valid email. Multiples comma separated emails are validated individually. If one or more emails are invalid it return false.
+if the parameter "single" is true, or exist, the validation expect only one email address.
+
+**Kind**: global function  
+
+| Param | Type | Description |
+| --- | --- | --- |
+| email | <code>String</code> | The email address or a comma separated list of email addresses. |
+| singel | <code>Boolean</code> | Only evalutes one email address |
+
 <a name="isEmpty"></a>
 
 ## isEmpty(object) ⇒ <code>Boolean</code>

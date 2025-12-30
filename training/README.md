@@ -2,8 +2,6 @@
 
 Using this guide, you will learn how to start developing applications using SilkBuilder.
 
-## SilkBuilder Development
-
 * [Sample Database](sample_database.md)
 * [Plain Application](plain_application.md)
 * [Easy Application](easy_application.md)

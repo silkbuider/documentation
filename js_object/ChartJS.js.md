@@ -17,7 +17,7 @@ SilkBuilder also creates a companion JavaScript object using the [ChartJS](..\js
 ```xml
 <silk:JQcode>
 	chart.on("click", function(index, value, label){
-  	silk.alert(label+":"+value);
+		silk.alert(label+":"+value);
   });	
 </silk:JQcode>
 ```

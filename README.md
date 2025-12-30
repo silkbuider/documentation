@@ -20,10 +20,11 @@ SilkBuilder Framework packages and uses open-source libraries and resources. The
 
 ## Learn more about SilkBuilder
 
-* [Development](development/)
-* [Docs](docs/)
 * [Silk Tags](tags/)
 * [JavaScript Objects](js_object/)
 * [Java Classes](https://javadoc.silkbuilder.com/)
+* [Structures](structures/)
+* [Development](development/)
+* [Training](training)
 * [Coding Techniques](how_to/)
 
